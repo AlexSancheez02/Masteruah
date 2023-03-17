@@ -1,6 +1,6 @@
 # Masteruah
 <ol>
-  <li>Creamos un repositorio dandole en la parte izquierda de la pagina de github a new y crearemos un repositorio con el nombre indicado(masterua) y tenemos que seleccionar add readmi file y lo creamos</li>
+  <li>Creamos un repositorio dandole en la parte izquierda de la pagina de github a new y crearemos un repositorio con el nombre indicado(masteruah) y tenemos que seleccionar add readmi file y lo creamos</li>
   <li>Creamos una carpeta donde la queramos tener con el nombre que queramos le damos boton derecho y le damos a git bash here y empezaremos a usar los comando desde ahí</li>
   <li>Usamos el comando git clone y el mi url del git para crear una clonación de lo que tenga en mi repositorio pero en la carpeta creada en la que estoy trabajando</li>
   <li>Accedemos a la carpeta interna usando el comando cd Masteruah/</li>
