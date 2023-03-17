@@ -39,11 +39,25 @@
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20150611.png"></img>
   <li>Añadir una estrella a los repositorios del resto de tus compañeros:</li>
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20151457.png"></img>
-</ol>
-
-<table>
+   <li>Creación de la tabla:</li>
+   <table>
 <tr>
 <th>Nombre</th>
 <th>Github</th>
 </tr>
+  <tr>
+<th>Juanma104</th>
+<th>[Github](https://github.com/Juanma104)</th>
+</tr>
+  <tr>
+<th>PabloTorr03</th>
+<th>[Github](https://github.com/PabloTorr03)</th>
+</tr>
+   <tr>
+<th>AlvaroLope28</th>
+<th>[Github](https://github.com/AlvaroLope28)</th>
+</tr>
 </table>
+</ol>
+
+
