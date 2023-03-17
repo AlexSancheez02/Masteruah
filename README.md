@@ -23,7 +23,8 @@
   <li>Para crear el tag v0.2 usamos el comando git tag v0.2</li>
   <li>Para borrar la rama v0.2 usamos el comando git branch -D v0.2</li>
   <li>Para mostrar el listado de cambios usamos el comando git log --oneline --decorate --all</li>
-  <li></li>
+  <li>Cambiar foto de perfil:</li>
+  <img src="‪C:\Users\alext\Pictures\Saved Pictures\Captura de pantalla 2023-03-17 131337.png"><img/>
   <li></li>
   <li></li>
   <li></li>
