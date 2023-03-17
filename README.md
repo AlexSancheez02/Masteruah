@@ -27,9 +27,12 @@
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20131337.png"><img/>
   <li>Poner el doble factor de autentificación en vuestra cuenta de GitHub:</li>
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20133150.png"></img>
-  <li>1. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador:</li>
+  <li>Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador:</li>
+  <li>Primero usamos los comandos para conseguir el link</li>
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20133432.png"></img>
+  <li>Accedemos a este apartado y le damos a new key</li>
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20133657.png"></img>
+  <li>Por ultimo ponemos el titulo que queramos y agregamos nuestro link antes conseguido</li>
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20133719.png"></img>
   <li></li>
   <img src=""></img>
