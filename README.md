@@ -38,7 +38,7 @@
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20150537.png"></img>
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20150611.png"></img>
   <li>Añadir una estrella a los repositorios del resto de tus compañeros:</li>
-  <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20150611.png"></img>
+  <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20151457.png"></img>
 </ol>
 
 <table>
