@@ -60,4 +60,19 @@
 </table>
 </ol>
 
+<li>Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador
+del repositorio **masteruah**</li>
+<img src="[https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20151457.png](https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20152430.png)"></img>
+
+
+
+
+
+
+
+
+
+
+
+
 
