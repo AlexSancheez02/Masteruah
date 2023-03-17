@@ -25,9 +25,12 @@
   <li>Para mostrar el listado de cambios usamos el comando git log --oneline --decorate --all</li>
   <li>Cambiar foto de perfil:</li>
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20131337.png"><img/>
+  <li>Poner el doble factor de autentificación en vuestra cuenta de GitHub:</li>
+  <img src=""></img>
   <li></li>
+  <img src=""></img>
   <li></li>
-  <li></li>
+  <img src=""></img>
   <li></li>
 </ol>
 
