@@ -1,4 +1,8 @@
 # Masteruah
+<ol>
+<li>Git clone</li>
+</ol>
+
 <table>
 <tr>
 <th>Nombre</th>
