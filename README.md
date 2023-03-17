@@ -30,7 +30,7 @@
   <li>1. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador:</li>
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20133432.png"></img>
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20133657.png"></img>
-  <img src=""></img>
+  <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20133719.png"></img>
   <li></li>
   <img src=""></img>
   <li></li>
