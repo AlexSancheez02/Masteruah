@@ -78,8 +78,11 @@ de 2 organizaciones de las que no seais ni administradiores ni colaboradores</li
 <li>Para hacer un fork accedemos al repositorio del compañero y arriba a la derecha le damos a fork y sirve para hacerle una propuesta</li>
 <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20154314.png"></img>
 <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20154408.png"></img>
-<li></li>
-<img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20152608.png"></img>
+<li>Hacer un pull-request</li>
+<img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20155121.png"></img>
+<li>Aceptar los pull-request que lleguen a los repositorios de tu organización</li>
+<li>Si tuviera que aceptar sería desde esta pantalla pero no tengo nada que aceptar en este momento</li>
+<img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20155144.png"></img>
 </ol>
 
 
