@@ -76,7 +76,7 @@ compañeros de clase en el equipo **administradores** y lo mismo pero con **cola
 <li>Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io**
 de 2 organizaciones de las que no seais ni administradiores ni colaboradores</li>
 <li>Para hacer un fork accedemos al repositorio del compañero y arriba a la derecha le damos a fork y sirve para hacerle una propuesta</li>
-<img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20152608.png"></img>
+<img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20154314.png"></img>
 <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20154408.png"></img>
 <li></li>
 <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20152608.png"></img>
