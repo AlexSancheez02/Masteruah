@@ -58,12 +58,21 @@
 <th>[Github](https://github.com/AlvaroLope28)</th>
 </tr>
 </table>
-</ol>
 
 <li>Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador
 del repositorio **masteruah**</li>
-<img src="[https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20151457.png](https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20152430.png)"></img>
-
+<img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20152430.png"></img>
+<li>Crear una organización llamada **masteruah-tunombredeusuariodegithub**</li>
+<img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20152454.png"></img>
+<li>Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**,
+uno llamado **administradores** y otro **colaboradores**</li>
+<img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20152534.png"></img>
+<img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20152551.png"></img>
+<li>Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a 2 de vuestros
+compañeros de clase en el equipo **administradores** y lo mismo pero con **colaboradores**</li>
+<img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20152608.png"></img>
+<li></li>
+</ol>
 
 
 
