@@ -13,13 +13,13 @@
   <li>Para crear una rama(v0.2) usaremos el comando git branch v0.2</li>
   <li>Para pocisionarnos en la rama que hemos creado usaremos el comando git checkout v0.2</li>
   <li>Para añadir un fichero dentro de la rama v0.2 usaremos el comando echo "Contenido del fichero 2" > 2.txty para agregarlo a la rama v0.2 primero usamos el comando git add 2.txt y despues el comando git commit -m "Añadir fichero 2.txt a la rama v0.2"</li>
-  <li>Para subir los cambios al repositorio remoto usando el comando</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Para subir los cambios al repositorio remoto usando el comando git push -u origin v0.2</li>
+  <li>Para posicionarse en la rama main usamos el comando git checkout main</li>
+  <li>Para hacer un merge en la rama v0.2 en la rama main usamos el comando git merge v0.2</li>
+  <li>Tenemos que escribir hola en el fichero 1 desde la rama main y hacerle un commit entonces usaremos el comando despues de haber escrito el mensaje y haberlo guardado primero usaremos el comando git add fichero1.txt y despues el comando git commit -m "Agregando hola en el fichero 1.txt</li>
+  <li>Para posicionarnos en la rama v0.2 usamos el comando git checkout v0.2, y escribimos en el fichero1.txt "Adios" y para ello usamos el comando echo "Adios" > fichero1.txt y ahora le hacemos el commit primero usamos el comando git add fichero1.txt y despues usamos el comando git commit -m "Agregado Adios en fichero1.txt en la rama v0.2"</li>
+  <li>Para posicionarnos en el rama main de nuevo usamos el comando git checkout main y hacemos un merge con la rama v0.2 con el comando 
+  <li>
   <li></li>
   <li></li>
   <li></li>
