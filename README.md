@@ -27,7 +27,7 @@
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20131337.png"><img/>
   <li>Poner el doble factor de autentificación en vuestra cuenta de GitHub:</li>
   <img src="https://github.com/AlexSancheez02/Masteruah/blob/main/Captura%20de%20pantalla%202023-03-17%20133150.png"></img>
-  <li></li>
+  <li>1. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador:</li>
   <img src=""></img>
   <li></li>
   <img src=""></img>
